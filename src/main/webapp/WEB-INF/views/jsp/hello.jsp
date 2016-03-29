@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Welcome to the World unitied</title>
+<title>MMM</title>
  
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -41,21 +41,21 @@
  
   <div class="row">
 	<div class="col-md-4">
-		<h2>Heading</h2>
+		<h2>Modi</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Heading</h2>
+		<h2>Manik</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Heading</h2>
+		<h2>Manjot</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
