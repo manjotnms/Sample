@@ -65,7 +65,13 @@
 					<wtpContextName>spring3</wtpContextName>
 				</configuration>
 			</plugin>
-			
+			<plugin>
+            			<groupId>org.apache.maven.plugins</groupId>
+            			<artifactId>maven-war-plugin</artifactId>
+            			<configuration>
+                			<outputDirectory>warfile\</outputDirectory>
+            			</configuration>
+        		</plugin>
 		</plugins>
 	</build>
 
