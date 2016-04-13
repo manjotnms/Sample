@@ -41,21 +41,21 @@
  
   <div class="row">
 	<div class="col-md-4">
-		<h2>Modi</h2>
+		<h2>Heading3</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Manik</h2>
+		<h2>Heading2</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Manjot</h2>
+		<h2>Heading1</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
