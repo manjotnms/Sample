@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome San Jose
+			Welcome to CdDevops Application	
 		</c:if>
     </p>
     <p>
@@ -66,7 +66,7 @@
  
   <hr>
   <footer>
-	<p>&copy; Mkyong.com 2015</p>
+	<p>&copy; @Aricent</p>
   </footer>
 </div>
  
