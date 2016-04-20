@@ -66,7 +66,7 @@
  
   <hr>
   <footer>
-	<p>&copy; Aricent</p>
+	<p>&copy;Aricent Inc</p>
   </footer>
 </div>
  
