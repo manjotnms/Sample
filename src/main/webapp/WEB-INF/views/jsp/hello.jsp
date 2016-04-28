@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			CdDevops Framework
+			Welcome to the CdDevops Framework
 		</c:if>
     </p>
     <p>
