@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Sample example of CI/CD framework
+			 Application using CdDevops Framework
 		</c:if>
     </p>
     <p>
