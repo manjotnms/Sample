@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome to the Continous Intergation and Deployement framework
+			Sample example of CI/CD framework
 		</c:if>
     </p>
     <p>
