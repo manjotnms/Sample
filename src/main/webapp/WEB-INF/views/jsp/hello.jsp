@@ -48,7 +48,7 @@
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Contact1</h2>
+		<h2>Contact us</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
