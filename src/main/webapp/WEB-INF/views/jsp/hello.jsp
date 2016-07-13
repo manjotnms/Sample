@@ -41,8 +41,8 @@
  
   <div class="row">
 	<div class="col-md-4">
-		<h2>Live</h2>
-		<p>ABC</p>
+		<h2>Live News </h2>
+		<p>Value</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
