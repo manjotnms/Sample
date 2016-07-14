@@ -49,7 +49,7 @@
 	</div>
 	<div class="col-md-4">
 		<h2>Contact us</h2>
-		<p>ABC</p>
+		<p>ABCD12345679</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
